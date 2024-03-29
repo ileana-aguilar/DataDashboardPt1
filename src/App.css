@@ -5,22 +5,21 @@
   text-align: center;
 }
 
-/* In App.css */
 .app-container {
   display: flex;
-  justify-content: space-between; /* Align children to the far ends */
-  height: 100vh; /* Full height of the viewport */
+  justify-content: space-between; 
+  height: 100vh; 
 }
 
 .left, .right {
   display: flex;
-  flex-direction: column; /* Stack children vertically */
-   /* Each side takes half of the screen width */
+  flex-direction: column; 
+
    
 }
 
 .left {
-  justify-content: flex-start; /* Align children at the top */
+  justify-content: flex-start; 
   width: 20%;
   backdrop-filter: blur(1px);
   background-color: rgba(128, 0, 128, 0.169);
@@ -35,7 +34,7 @@
 
 .right {
   
-  justify-content: flex-start; /* Align children at the top */
+  justify-content: flex-start; 
   width: 80%;
   padding-left: 50px;
   
