@@ -15,7 +15,7 @@ Users will be able to view:
 
 - [x] A search bar allows the user to search for an item in the fetched data
 
--[x] An additional filter allows the user to restrict displayed items by specified categories
+- [x] An additional filter allows the user to restrict displayed items by specified categories
 
 **The following **optional** functionality are implemented:**
 - [x] Multiple filters can be applied simultaneously
