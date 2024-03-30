@@ -71,7 +71,7 @@ function List() {
                         <th>Title</th>
                         <th>Author</th>
                         <th>Number of Editions</th>
-                        <th>Average Rating</th>
+                        <th>Rating</th>
                     </tr>
                 </thead>
                 <tbody>

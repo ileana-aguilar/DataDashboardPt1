@@ -45,7 +45,7 @@ function Card() {
 
         <div className='card-div'>
             <h2>{bookData.avgRating.toFixed(2)}</h2>
-            <h3>Average Ratings</h3>
+            <h3>Average Overall Ratings</h3>
         </div>
         </div>
     )
