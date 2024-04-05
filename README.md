@@ -1,5 +1,5 @@
-# Data Dashboard Part 1
-Data Dashboard Part 1 provides an at-a-glance summary of information gathered from a public API.
+# Library Dashboard Part 1
+Library Dashboard Part 1 provides an at-a-glance summary of information gathered from a public API.
 
 Users will be able to view: 
 - a summary of statistics
@@ -25,9 +25,9 @@ Users will be able to view:
 - [x] User can enter specific bounds for filter values
 
 
-# Here's how Data Dashboard Part 1 looks:
+# Here's how Library Dashboard Part 1 looks:
 
-<img src="src/assets/DashboardPt1.gif" title="Data DashboardPt1 gif" alt="DashboardPt1 gif">
+<img src="src/assets/DashboardPt1.gif" title="Library DashboardPt1 gif" alt="DashboardPt1 gif">
 
 # Getting started
 **Install dependencies**

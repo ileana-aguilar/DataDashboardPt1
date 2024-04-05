@@ -9,3 +9,15 @@ input{
     border-radius: 8px;
     margin: 30px;
 }
+
+table{
+    border-spacing: 10px;
+    margin-left: 10px;
+    text-align: center;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+
+}
